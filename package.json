@@ -1,0 +1,25 @@
+{
+  "name": "react_tutorial",
+  "version": "1.0.0",
+  "description": "React Tutorial",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntunPrskalo/react_tutorial.git"
+  },
+  "author": "Antun Prskalo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntunPrskalo/react_tutorial/issues"
+  },
+  "homepage": "https://github.com/AntunPrskalo/react_tutorial#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "express-handlebars": "^3.0.0",
+    "path": "^0.12.7"
+  }
+}
